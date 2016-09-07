@@ -24,7 +24,7 @@ public class ApiTest {
 
     private static final String[] API = {
             "/",
-            "/begin",
+            "/puzzle",
             "/init"
     };
 
