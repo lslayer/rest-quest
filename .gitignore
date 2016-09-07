@@ -1,3 +1,7 @@
 
 .idea/
 rest-puzzle.iml
+target/
+.mvn/
+mvnw
+mvnw.cmd
